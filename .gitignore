@@ -3,3 +3,4 @@ phpunit.xml.bak
 .idea
 composer.lock
 vendor
+.phpunit.cache
